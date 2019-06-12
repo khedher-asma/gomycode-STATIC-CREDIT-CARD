@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/STATIC-CREDIT-CARD/static/css/main.b239e9c9.chunk.css",
+    "main.js": "/STATIC-CREDIT-CARD/static/js/main.5d96afb4.chunk.js",
+    "main.js.map": "/STATIC-CREDIT-CARD/static/js/main.5d96afb4.chunk.js.map",
+    "runtime~main.js": "/STATIC-CREDIT-CARD/static/js/runtime~main.c0002bef.js",
+    "runtime~main.js.map": "/STATIC-CREDIT-CARD/static/js/runtime~main.c0002bef.js.map",
+    "static/js/2.3310f33a.chunk.js": "/STATIC-CREDIT-CARD/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/STATIC-CREDIT-CARD/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/STATIC-CREDIT-CARD/index.html",
+    "precache-manifest.05ba9e068de33b39f848e523f75fb8da.js": "/STATIC-CREDIT-CARD/precache-manifest.05ba9e068de33b39f848e523f75fb8da.js",
+    "service-worker.js": "/STATIC-CREDIT-CARD/service-worker.js",
+    "static/css/main.b239e9c9.chunk.css.map": "/STATIC-CREDIT-CARD/static/css/main.b239e9c9.chunk.css.map",
+    "static/media/App.css": "/STATIC-CREDIT-CARD/static/media/earth.e31fdcb9.png",
+    "static/media/puce.png": "/STATIC-CREDIT-CARD/static/media/puce.4ba08830.png",
+    "static/media/visaCard.png": "/STATIC-CREDIT-CARD/static/media/visaCard.f492aed3.png"
+  }
+}
