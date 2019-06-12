@@ -1,33 +1,97 @@
-.App {
+
+.main{
+  background-image: url('earth.png');
+  background-repeat: no-repeat;
+  max-width: 40vw;
+  height: 50vh;
+  margin: 0 auto;
+  border-radius: 1.5rem;
+  line-height: 0.5rem;
+  
+
+}
+.description{
+  color: beige;
+  text-align: right;
+  margin-right: 3rem;
+}
+h1{
+  padding-top: 2rem;
+  padding-bottom:1rem;
+  font-size: 2.5rem;
+  font-weight: bolder;
+
+}
+.puce{
+  width: 15%;
+  margin-left: 3rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5em;
+}
+.card-info{
+  display: flex;
+}
+.left{
+  min-width: 70%;
+}
+.card-number{
+  color: rgb(207, 210, 135);
+  background-color: rgba(207, 210, 135, 0.3);
+  font-size: 2rem;
+  margin-left: 1.5em;
+
+}
+.date-info{
+  display: flex;
+  justify-content: space-between;}
+.number{
+  color: beige;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-left: 1.5em;
+}
+.date{
+display: flex;
+font-size: 0.5rem;
+margin-right: 2rem;
+}
+.valid{
+  color:beige;
+  font-size: 0.7rem;
+  line-height: 0.8rem;
+  align-self: center;
+}
+.date i{
+  color: beige;
+  align-self: center;
+}
+.date-expiration{
+  color:beige;
+  font-size: 0.5rem;
+  line-height: 1rem;
+  padding-left: 0.5rem;
   text-align: center;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.date-expiration span{
+  font-size: 1.4rem;
+  padding-top: 1rem;
+  font-weight: bold;
+  
+}
+.user{
+  color: beige;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 2em;
+}
+.rigth{
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.visa-card{
+  width: 60%;
+  align-self: center;
+  margin-right: 1rem;
 }
